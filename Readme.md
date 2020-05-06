@@ -1,1 +1,1 @@
-Deconstructing the google.com homepage and rebuilding it
+Deconstructing the google.com homepage and rebuilding it using the developer tools. This is also my first Project using HTML and CSS.
