@@ -1,0 +1,94 @@
+    .Logo { 
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 350px;
+          }
+  
+      .Navbar {
+        list-style-type: none;
+         margin: 0;
+        padding: 0;
+      
+      } 
+
+      
+      
+      li  {
+        float: left;
+      }
+
+      li a {
+        display:block ;
+        color: rgb(102, 100, 100);
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+      
+      * {
+        box-sizing: border-box;
+      } 
+
+form.example input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 80%;
+  background-color: rgb(255, 255, 255); }
+
+form.example button {
+  float: right;
+  width: 20%;
+  padding: 10px;
+  background: #2196F3;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none;
+  cursor: pointer;
+}
+
+form.example button:hover {
+  background: #0b7dda;
+}
+
+form.example::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+ .button {
+   display: flex;
+   justify-content: center;
+ }
+
+ .button input {
+  background-color: rgb(241, 240, 240);
+  padding: 20px;
+  margin: 20px;
+  border-radius: 5% 5%;
+  border-color: white;
+  border-style: solid;
+}
+
+.Footbar
+{
+overflow: hidden;
+margin-top: 280px;
+background-color: #f2f2f2;
+} 
+
+.Footbar a  {
+  float: left;
+  display: block;
+  color: rgb(73, 68, 68);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  
+}
+
